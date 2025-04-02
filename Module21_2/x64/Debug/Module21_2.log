@@ -1,0 +1,17 @@
+﻿  FileName.cpp
+C:\Users\LENOVO\source\repos\Module21_2\Module21_2\FileName.cpp(38,9): error C3861: 'displayBase': identifier not found
+      C:\Users\LENOVO\source\repos\Module21_2\Module21_2\FileName.cpp(38,20):
+      'displayBase': function declaration must be available as none of the arguments depend on a template parameter
+      C:\Users\LENOVO\source\repos\Module21_2\Module21_2\FileName.cpp(38,20):
+      the template instantiation context (the oldest one first) is
+          C:\Users\LENOVO\source\repos\Module21_2\Module21_2\FileName.cpp(24,7):
+          while compiling class template 'child'
+  
+C:\Users\LENOVO\source\repos\Module21_2\Module21_2\FileName.cpp(57,9): error C3861: 'displayChild': identifier not found
+      C:\Users\LENOVO\source\repos\Module21_2\Module21_2\FileName.cpp(57,21):
+      'displayChild': function declaration must be available as none of the arguments depend on a template parameter
+      C:\Users\LENOVO\source\repos\Module21_2\Module21_2\FileName.cpp(57,21):
+      the template instantiation context (the oldest one first) is
+          C:\Users\LENOVO\source\repos\Module21_2\Module21_2\FileName.cpp(44,7):
+          while compiling class template 'child2'
+  
