@@ -53,7 +53,7 @@ public:
         cout << "child2 destructor called" << endl;
     }
 
-    void displayChild2() const { // Çì³íåíî íà public
+    void displayChild2() const {
         displayChild();
         cout << "child2: value5 = " << value5 << ", value6 = " << value6 << endl;
     }
